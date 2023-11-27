@@ -3,7 +3,7 @@ import Heading from '../UI elements/Heading'
 
 export const AboutMe = () => {
   return (
-    <div className='justify-center items-center self-center text-lightest_slate font-[20px] pl-[4%]'>
+    <div className=' text-lightest_slate font-[20px]'>
         <Heading index={'01'} title={"About Me"}/>
         <div  className='flex mt-8'>
             <div className=' max-w-[540px] mr-8'>

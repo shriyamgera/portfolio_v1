@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Promptify",
+        "description": "Promptify is a web-based application designed to assist users in generating creative prompts for various purposes. Whether you're a writer looking for inspiration, a student working on a project, or someone in need of ideas for brainstorming, Promptify can help spark your creativity.",
+        "img":"https://th.bing.com/th/id/OIP.gVEb3Iji71hLjB77QWaflQAAAA?rs=1&pid=ImgDetMain",
+        "tech_used":[
+            "Next Js",
+            "Tailwind",
+            "Mongo DB",
+            "Express",
+            "Vercel"
+        ],
+        "git_Link":"https://github.com/shriyamgera/promptify",
+        "link":"https://promptify-sandy.vercel.app"
+    },
+    {
+        "name":"Weebopedia",
+        "description": "Promptify is a web-based application designed to assist users in generating creative prompts for various purposes. Whether you're a writer looking for inspiration, a student working on a project, or someone in need of ideas for brainstorming, Promptify can help spark your creativity.",
+        "img":"https://th.bing.com/th/id/OIP.gVEb3Iji71hLjB77QWaflQAAAA?rs=1&pid=ImgDetMain",
+        "tech_used":[
+            "Next Js",
+            "Tailwind",
+            "Mongo DB",
+            "Express",
+            "Vercel"
+        ],
+        "git_Link":"https://github.com/shriyamgera/promptify",
+        "link":"https://promptify-sandy.vercel.app"
+    }
+]
+

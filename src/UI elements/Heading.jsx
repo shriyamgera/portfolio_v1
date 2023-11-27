@@ -2,7 +2,7 @@ import React from 'react'
 
 const Heading = ({index, title}) => {
   return (
-    <div className='flex items-center'>
+    <div className='flex items-center text-off_white font-[32px]'>
         <div className=' text-[26px]'>
             <span className=' font-mono text-primary'>{index}. </span><span className=' font-bold'>{title}</span>
         </div>

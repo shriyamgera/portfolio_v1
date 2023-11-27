@@ -1,0 +1,29 @@
+[{
+    "j_no":2,
+    "name":"Mintworxs",
+    "position":"Software Developer Intern",
+    "time_period":"Aug 2023 - Present",
+    "description":[
+        "Worked on building mobile app user interfaces using React Native components",
+        "Responsibilities included fixing bugs, writing clean code, API integrations and contributing to team meetings.",
+        "Developed skills in React Native, JavaScript, and Git version control",
+        "Gained experience in working within a team environment and effective communication"
+    ]
+},
+
+{   "j_no":1,
+    "name":"Chatbuck Messenger",
+    "position":"Software Developer Intern",
+    "time_period":"April 2023 - Aug 2023",
+    "description":[
+        "Worked on building mobile app user interfaces using React Native components",
+        "Responsibilities included fixing bugs, writing clean code, API integrations and contributing to team meetings.",
+        "Developed skills in React Native, JavaScript, and Git version control",
+        "Gained experience in working within a team environment and effective communication"
+
+    ]
+}]
+
+
+
+
