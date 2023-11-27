@@ -6,7 +6,7 @@ import { FaXTwitter } from "react-icons/fa6"
 
 const LeftSidebar = () => {
   return (
-    <div className=' p-2 max-w-fit flex flex-col items-center absolute bottom-0 text-lightest_slate'>
+    <div className=' p-2 max-w-fit flex flex-col items-center fixed bottom-0 text-lightest_slate'>
         <div className='flex flex-col gap-4 text-2xl '>
             <FiGithub className='  hover:text-primary cursor-pointer'/>
             <FaXTwitter className='  hover:text-primary cursor-pointer'/>

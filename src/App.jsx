@@ -1,4 +1,5 @@
 import './App.css';
+import { AboutMe } from './Components/AboutMe';
 import Introduction from './Components/Introduction';
 import LeftSidebar from './Components/LeftSidebar';
 import Navbar from './Components/Navbar';
@@ -11,7 +12,8 @@ function App() {
       <LeftSidebar/>
       <RightSidebar/>
       <div className='mx-[25%]'>
-      <Introduction/>
+        <Introduction/>
+        <AboutMe/>
       </div>
     </div>
   );
