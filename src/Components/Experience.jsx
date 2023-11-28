@@ -20,7 +20,7 @@ const Experience = () => {
                 <div className='mr-8'>{
                     experience?.map((item) => (
                         <div key={item.j_no}
-                             className={` font-mono py-3 px-3 border-l-4 ${selectedJob === item ? `text-primary border-primary` :`text-lightest_slate border-lightest_navy`} hover:bg-lightest_navy cursor-pointer hover:text-primary`}
+                             className={` font-mono py-3 px-3 border-l-4 ${selectedJob === item ? `text-primary border-primary` :`text-lightest_slate border-lightest_navy`} hover:bg-lightest_navy cursor-pointer hover:text-primary duration-[600ms] ease-in-out`}
                              onClick={()=>{onSelectHandle(item)}}>
                             {item.name}
                         </div>

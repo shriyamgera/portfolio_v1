@@ -22,3 +22,7 @@ code {
   writing-mode: vertical-rl;
   text-orientation: mixed;
 }
+
+.btn_hover_shadow:hover {
+  @apply shadow-[3px_3px_#64ffda];
+}
