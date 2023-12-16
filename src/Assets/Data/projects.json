@@ -2,7 +2,7 @@
     {
         "name":"Promptify",
         "description": "Promptify is a web-based application designed to assist users in generating creative prompts for various purposes. Whether you're a writer looking for inspiration, a student working on a project, or someone in need of ideas for brainstorming, Promptify can help spark your creativity.",
-        "img":"https://th.bing.com/th/id/OIP.gVEb3Iji71hLjB77QWaflQAAAA?rs=1&pid=ImgDetMain",
+        "img":"/images/Promptify.png",
         "tech_used":[
             "Next Js",
             "Tailwind",
@@ -11,12 +11,12 @@
             "Vercel"
         ],
         "git_Link":"https://github.com/shriyamgera/promptify",
-        "link":"https://promptify-sandy.vercel.app"
+        "link":"https://promptify-sg.vercel.app"
     },
     {
-        "name":"Weebopedia",
-        "description": "Promptify is a web-based application designed to assist users in generating creative prompts for various purposes. Whether you're a writer looking for inspiration, a student working on a project, or someone in need of ideas for brainstorming, Promptify can help spark your creativity.",
-        "img":"https://th.bing.com/th/id/OIP.gVEb3Iji71hLjB77QWaflQAAAA?rs=1&pid=ImgDetMain",
+        "name":"Weebopedia (Under Development)",
+        "description": "Weebopedia, the ultimate anime hub! Discover in-depth details about your favorite shows, characters, and genres. Engage with a vibrant community, share recommendations, and connect with fellow anime enthusiasts. Your gateway to the dynamic world of Japanese animation awaits at Weebopedia!",
+        "img":"images/Weebopedia.png",
         "tech_used":[
             "Next Js",
             "Tailwind",
@@ -24,8 +24,8 @@
             "Express",
             "Vercel"
         ],
-        "git_Link":"https://github.com/shriyamgera/promptify",
-        "link":"https://promptify-sandy.vercel.app"
+        "git_Link":"https://github.com/shriyamgera/weebopedia",
+        "link":"https://weebopedia-sg.vercel.app"
     }
 ]
 

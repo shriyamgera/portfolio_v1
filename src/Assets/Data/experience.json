@@ -4,10 +4,10 @@
     "position":"Software Developer Intern",
     "time_period":"Aug 2023 - Present",
     "description":[
-        "Worked on building mobile app user interfaces using React Native components",
-        "Responsibilities included fixing bugs, writing clean code, API integrations and contributing to team meetings.",
-        "Developed skills in React Native, JavaScript, and Git version control",
-        "Gained experience in working within a team environment and effective communication"
+        "Collaborated on the creation of mobile app user interfaces using React Native components, ensuring a seamless and engaging user experience.",
+        "Integrated APIs seamlessly into the mobile app, enhancing its functionality and ensuring a smooth interaction with external services.",
+        " Employed Jira and Bitbucket for efficient project management and version control, streamlining the development process and enhancing team collaboration.",
+        " Actively engaged in learning and implementing MobX for state management in React, enhancing the scalability and maintainability of the mobile app."
     ]
 },
 

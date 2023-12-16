@@ -11,14 +11,12 @@ import RightSidebar from './Components/RightSidebar';
 
 function App() {
   return (
-    <div>
+    <div className='custom-scrollbar'>
       <Navbar/>
       <LeftSidebar/>
       <RightSidebar/>
-      <div className='-ml-24 flex justify-center'>
-        <Introduction/>
-      </div>
       <div className='flex flex-col items-center justify-center'>
+        <Introduction/>
         <AboutMe/>
         <Experience/>
         <Projects/>
