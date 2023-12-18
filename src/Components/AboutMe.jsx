@@ -43,8 +43,8 @@ export const AboutMe = () => {
             
              className='relative'>
             <div class={` ${isHovered ? `translate-x-1 translate-y-1` : `translate-x-0 translate-y-0`} duration-300 absolute top-4 -right-4 -bottom-4 left-4 border-2 border-primary`}></div>
-            <div className={`${isHovered ?`-translate-x-1  -translate-y-1 `:`-translate-x-0 -translate-y-0`} duration-300  bg-primary`}> 
-                <img src={profileImage} alt='Profile' className=' opacity-50 hover:opacity-100  max-h-[300px] duration-300'/>
+            <div className={`${isHovered ?`-translate-x-1  -translate-y-1 `:`-translate-x-0 -translate-y-0`} duration-300`}> 
+                <img src={profileImage} alt='Profile' className=' opacity-100  max-h-[300px] duration-300'/>
                 </div>
             </div>
         </div>
