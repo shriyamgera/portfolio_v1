@@ -15,7 +15,7 @@
     },
     {
         "name":"Weebopedia (Under Development)",
-        "description": "Weebopedia, the ultimate anime hub! Discover in-depth details about your favorite shows, characters, and genres. Engage with a vibrant community, share recommendations, and connect with fellow anime enthusiasts. Your gateway to the dynamic world of Japanese animation awaits at Weebopedia!",
+        "description": "Weebopedia is a website all about cartoons from Japan called anime. You can find out information about different animes, like their stories and characters. Plus, there's a place where you can talk to other people who like anime and share your thoughts about them. It's like a big online club for anime fans!",
         "img":"images/Weebopedia.png",
         "tech_used":[
             "Next Js",
