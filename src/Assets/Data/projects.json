@@ -1,5 +1,21 @@
 [
     {
+        "name":"Roomer",
+        "description": "Roomer: A comprehensive platform designed to help students find the perfect PGs, hostels, and flats with ease. It features advanced search filters, wishlist management, secure authentication,making the process of finding accommodation simple and efficient.",
+        "img":"/images/Roomer.png",
+        "tech_used":[
+            "React Js",
+            "Redux",
+            "Tailwind",
+            "Mongo DB",
+            "Express",
+            "Vercel"
+        ],
+        "git_Link":"https://github.com/shriyamgera/roomer",
+        "link":"https://roomer-frontend.vercel.app/"
+    },
+
+    {
         "name":"Promptify",
         "description": "Promptify is a web-based application designed to assist users in generating creative prompts for various purposes. Whether you're a writer looking for inspiration, a student working on a project, or someone in need of ideas for brainstorming, Promptify can help spark your creativity.",
         "img":"/images/Promptify.png",
