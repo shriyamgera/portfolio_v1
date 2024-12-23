@@ -21,11 +21,13 @@ export const AboutMe = () => {
 
         <ul className='grid grid-cols-2 gap-1 font-mono mt-4'>
             <li className=''><span className='text-primary'>&#9656;</span> JavaScript (ES6+)</li>
-            <li><span className='text-primary'>&#9656;</span> React</li>         
+            <li><span className='text-primary'>&#9656;</span> React</li>
+            <li><span className='text-primary'>&#9656;</span> Redux</li>          
             <li><span className='text-primary'>&#9656;</span> Next JS</li>
             <li><span className='text-primary'>&#9656;</span> React Native</li>
             <li><span className='text-primary'>&#9656;</span> Tailwind</li>
             <li><span className='text-primary'>&#9656;</span> Node.js</li>
+            <li><span className='text-primary'>&#9656;</span> Express JS</li>
             <li><span className='text-primary'>&#9656;</span> Mongo DB</li>
             <li><span className='text-primary'>&#9656;</span> TypeScript</li>
         </ul>
