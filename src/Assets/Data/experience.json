@@ -1,29 +1,52 @@
-[{
-    "j_no":2,
-    "name":"Mintworxs",
-    "position":"Software Developer Intern",
-    "time_period":"Aug 2023 - Sept 2024",
-    "description":[
-        "Collaborated on the creation of mobile app user interfaces using React Native components, ensuring a seamless and engaging user experience.",
-        "Integrated APIs seamlessly into the mobile app, enhancing its functionality and ensuring a smooth interaction with external services.",
-        " Employed Jira and Bitbucket for efficient project management and version control, streamlining the development process and enhancing team collaboration.",
-        " Actively engaged in learning and implementing MobX for state management in React, enhancing the scalability and maintainability of the mobile app."
+[
+  {
+    "j_no": 1,
+    "name": "Belzabar Software Design India Pvt. Ltd.",
+    "position": "Software Engineer",
+    "time_period": "Feb 2025 - Present",
+    "location": "Delhi, India",
+    "description": [
+      "Built and extended no-code/low-code workflows using React.js for custom UI components and business logic.",
+      "Integrated RESTful APIs and managed client-side data flows for production-ready features.",
+      "Collaborated with cross-functional teams to deliver scalable and maintainable frontend solutions."
     ]
-},
-
-{   "j_no":1,
-    "name":"Chatbuck Messenger",
-    "position":"Software Developer Intern",
-    "time_period":"April 2023 - Aug 2023",
-    "description":[
-        "Worked on building mobile app user interfaces using React Native components",
-        "Responsibilities included fixing bugs, writing clean code, API integrations and contributing to team meetings.",
-        "Developed skills in React Native, JavaScript, and Git version control",
-        "Gained experience in working within a team environment and effective communication"
-
+  },
+  {
+    "j_no": 2,
+    "name": "Escapekar",
+    "position": "React Developer",
+    "time_period": "Dec 2024 - Mar 2025",
+    "location": "Gurugram, India",
+    "description": [
+      "Developed AI-powered itinerary planning features to enhance user engagement.",
+      "Optimized frontend performance, improving load and render times by over 30%.",
+      "Managed asynchronous state and side effects using Redux Saga.",
+      "Integrated third-party APIs to enhance application functionality."
     ]
-}]
-
-
-
-
+  },
+  {
+    "j_no": 3,
+    "name": "Mintworxs",
+    "position": "React Native Developer",
+    "time_period": "Aug 2023 - Sept 2024",
+    "location": "Noida, India",
+    "description": [
+      "Built and maintained a POS mobile application using React Native, TypeScript, and MobX.",
+      "Developed reusable and responsive UI components to improve scalability.",
+      "Integrated APIs for real-time data handling and external service communication.",
+      "Used Jira and Bitbucket for project tracking, version control, and team collaboration."
+    ]
+  },
+  {
+    "j_no": 4,
+    "name": "ChatBucks",
+    "position": "React Native Developer",
+    "time_period": "Apr 2023 - Aug 2023",
+    "location": "Delhi, India",
+    "description": [
+      "Built mobile app UI components using React Native.",
+      "Fixed bugs, improved code quality, and implemented API integrations.",
+      "Worked in an agile team environment with regular collaboration and communication."
+    ]
+  }
+]
