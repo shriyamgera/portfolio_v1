@@ -26,23 +26,23 @@ const Navbar = () => {
 
   }, [toggleMenu])
 
-  const handleScroll = () => {
-    const currentScroll = window.pageYOffset
-    if (currentScroll <= prevScroll) {
-      controls.start({ opacity: 1 })
-    } else {
-      controls.start({ opacity: 0 })
-    }
-    setprevScroll(currentScroll)
-  }
-
   useEffect(() => {
+    const handleScroll = () => {
+      const currentScroll = window.pageYOffset
+      if (currentScroll <= prevScroll) {
+        controls.start({ opacity: 1 })
+      } else {
+        controls.start({ opacity: 0 })
+      }
+      setprevScroll(currentScroll)
+    }
+
     window.addEventListener('scroll', handleScroll)
 
     return () => {
       window.removeEventListener('scroll', handleScroll)
     }
-  }, [prevScroll])
+  }, [prevScroll, controls])
 
 
   return (
